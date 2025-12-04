@@ -4,7 +4,7 @@
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na **Unisinos** <br>
 💻 Desenvolvedor Fullstack focado em Web e Mobile <br>
-📍  Porto Alegre, RS - Brasil <br>
+📍 Porto Alegre, RS - Brasil <br>
 🚀 Atualmente trabalhando em projetos com **Flutter** e **TypeScript** <br>
 📫 Contato: vsmarlonvargas@gmail.com 
 
