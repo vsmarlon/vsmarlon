@@ -1,13 +1,11 @@
 # Olá, eu sou o Marlon Vargas! 👋
-
-<div align="left">
   
 ## 💫 Sobre Mim:
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas na **Unisinos**
-💻 Desenvolvedor Fullstack focado em Web e Mobile
-📍  Porto Alegre, RS - Brasil
-🚀 Atualmente trabalhando em projetos com **Flutter** e **TypeScript**
+🎓 Estudante de Análise e Desenvolvimento de Sistemas na **Unisinos** <br>
+💻 Desenvolvedor Fullstack focado em Web e Mobile <br>
+📍  Porto Alegre, RS - Brasil <br>
+🚀 Atualmente trabalhando em projetos com **Flutter** e **TypeScript** <br>
 📫 Contato: vsmarlonvargas@gmail.com 
 
 ---
@@ -54,7 +52,5 @@
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
 
 ---
