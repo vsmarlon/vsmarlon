@@ -2,13 +2,13 @@
 
 <div align="left">
   
-## 💫 About Me:
+##  About Me:
 
-🎓 Systems Analysis and Development Student at **Unisinos** <br>
-💻 Fullstack Developer focused on Web and Mobile <br>
-📍 From Porto Alegre, RS - Brazil <br>
-🚀 Currently working on projects with **Flutter**, and **TypeScript** <br>
-📫 Contact: vsmarlonvargas@gmail.com
+Student at: Systems Analysis and Development Student at **Unisinos** <br>
+Interest: Fullstack Developer focused on Web and Mobile <br>
+From: Porto Alegre, RS - Brazil <br>
+Stack: Currently working on projects with **Flutter**, and **TypeScript** <br>
+Contact: vsmarlonvargas@gmail.com
 
 ---
 
