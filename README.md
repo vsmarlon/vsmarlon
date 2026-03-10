@@ -1,4 +1,4 @@
-# Hi, I'm Marlon Vargas! 👋
+# Hi, I'm Marlon Vargas!
 
 <div align="left">
   
